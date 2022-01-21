@@ -1,0 +1,86 @@
+body{ 
+    background: #c7b39b url(images/bg.jpg); 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+} 
+.form{ 
+    height: 70%; 
+    width: 40%; 
+    background: #e1e1e1;  
+ 
+} 
+.text{
+    margin-top: 80px;
+    color: #30333b;
+    text-align: center; 
+    font-size: 30px; 
+    margin-bottom: 0px;
+    font-family: 'Lato', sans-serif;
+}
+.text_mi{ 
+    text-align: center; 
+    font-size: 13px;
+    color: #f1f1f1;
+    margin-bottom: 40px;
+}
+.em-ma{
+    font-size: 20px;
+    border: 0px;
+    height: 50px;
+    width: 70%;
+    margin-bottom: 13px;
+    margin-left: 0px;
+}
+
+.pa-ma{
+    font-size: 20px;
+    border: 0px;
+    height: 50px;
+    width: 70%;
+    margin-left: 0px;
+}
+.inl{
+    display: inline;
+}
+#email{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwn_4TkXhiGAK5sw5KMT4NAo8ZiJRJxT3DCw&usqp=CAU) no-repeat;
+    background-size: auto 100%;
+    padding-left: 9%;
+    height: 50px;
+    width: auto;
+    margin-left: 100px;
+    
+}
+#password{
+    background: url(https://image.shutterstock.com/image-vector/lock-icon-red-background-long-260nw-248363416.jpg) no-repeat;
+    background-size: auto 100%;
+    padding-left: 9%;
+    height: 50px;
+    width: auto;
+    margin-left: 100px;
+}
+.button{
+    border: 0px;
+    height: 50px;
+    width: 150px;
+    color:#ffddd9;
+    background: #eb3933;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+.butt_text{
+    display: inline;
+    text-align: end;
+    
+}
+.br{
+    margin-bottom: 20px;
+}
+#forpas{
+    text-align: end;
+    width: 85%;
+    margin: 0px;
+    padding: 0px;
+    
+}
